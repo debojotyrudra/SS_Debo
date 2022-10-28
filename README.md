@@ -1,2 +1,2 @@
-# SS_Debo
+# TakeScreenshot
 Sample SS app in python
